@@ -3,7 +3,7 @@
 ### PROJECT MEMBERS
 StdID | Name
 ------------ | -------------
-*60747* | *Muhammad Salman*
+**60747** | **Muhammad Salman**
 61372 | Arsal Khan
 61004 | Muhammad Qaim Mehdi
 
