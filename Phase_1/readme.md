@@ -1,4 +1,4 @@
-DM 109 Fall 2020: Course Repository
+# DM 109 Fall 2020: Course Repository
 
 ### PROJECT MEMBERS
 StdID | Name
